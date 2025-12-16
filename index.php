@@ -1,3 +1,3 @@
 <?php 
-echo "Riski wahyu saputra"
+echo "Riski wahyu"
 ?>
